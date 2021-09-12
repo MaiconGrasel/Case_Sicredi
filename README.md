@@ -65,3 +65,28 @@ Auxiliar os associados a obterem uma boa educação financeira, e consequentemen
 - [ ] Automatização de investimentos
 - [ ] Automatização de Doações para Entidades Sociais
 
+
+### Roadmap
+
+- [ ] Aprovaçaõ do projeto;
+- [ ] Validação dos 3 niveis de atendimento propostos, e elaboração de sua precificação;
+- [ ] Definição de orçamentos, débitos e créditos padrões por parte de equipe com expertise financeira da Cooperativa;
+- [ ] Fase inicial do desenvolvimento da solução, trazendo as seguintes funcionalidades para um ambiente de testes:
+    <br>Configuração do orçamento;
+		<br>Categorização de débitos;
+		<br>Categorização de créditos;
+		<br>Apresentação dos gráficos;
+		<br>Agendamento dos aportes automáticos(investimentos, doações);
+- [ ] Após protótipo inicial passar nos testes, elaboração de documentação de uso da ferramenta;
+- [ ] Apresentação da documentação e treinamento do uso da ferramenta aos gerentes de conta;
+- [ ] Criação dos materiais personalizados (Videos onde os gerentes de conta explicam a funcionalidade da ferramenta aos associados)
+- [ ] Desenvolvimento da Api Consulta_Conteudo, responsável por proporcionar a cada associado, os conteúdos gerados pelo seu gerente de conta diretamente no App Sicredi;
+- [ ] Desenvolvimento da Api Agenda_Atendimento, responsável por agendar data e horário de atendimento personalizado online. Esta API precisará ser integrada ao Google Agenda ou outra solução solução de gestão de tempo;
+- [ ] Preparação da equipe de gerentes para o atendimento remoto/online, provendo-lhes:
+  <br>Computador, Webcam, microfone e fone de ouvido para atendimento online;
+	<br>Treinamento no uso da plataforma escolhida para atendimento (Inicialmente, Google Meets e WhatsApp);
+- [ ] Criação do banco de dados das instituições amparadas pela cooperativa, gerando a lista de instituições para as quais os associados podem direcionar doações;
+- [ ] Criação de novo produto para resgate no programa Juntos. (Isenção da tarifa Orçamento Fácil)
+- [ ] Faze final dos testes de validação e usabilidade em todos os módulos e funcionalidade do projeto;
+- [ ] Lançamento da ferramenta no App Sicredi.
+
