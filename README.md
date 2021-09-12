@@ -29,7 +29,7 @@ Orçamento 60 20 10 5 5, onde:
 <br>Tem acesso também, aos vídeos de seu gerente explicando a funcionalidade da ferramenta, e dando dicas de como montar um orçamento familiar. 
 
 <br>Nivel 2 - $
-Possui todas as funções do Nivel 1, e adiciona um canal de comunicação com o seu gerente, para que este possa guiar o associado na criação e elaboração deste orçamento de acordo com a realidade do mesmo.
+<br>Possui todas as funções do Nivel 1, e adiciona um canal de comunicação com o seu gerente, para que este possa guiar o associado na criação e elaboração deste orçamento de acordo com a realidade do mesmo.
 <br>Este atendimento é agendado no momento da adesão ao módulo, e pode ser realizado presencialmente na agencia, ou via video-chamada (Inicialmente, utilizando ferramentas como Google Meet e/ou WhatsApp. 
 <br>Após a evolução do módulo, o atendimento aconteceria dentro do próprio App Sicredi)
 
